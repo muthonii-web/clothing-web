@@ -85,3 +85,15 @@ nav ul{
     justify-content: center;
     gap: 10px;
 }
+.footer-section{
+    display: flex;
+    justify-content: space-around;
+
+}
+.footerContainer{
+    display: flex;
+    justify-content: space-around;
+}
+.contactUs img{
+    width: 35px;
+}
