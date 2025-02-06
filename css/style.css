@@ -288,4 +288,111 @@ nav ul{
     background-color: #4f5b91;
 }
 
+/* Container for the entire contact section */
+.contactuSnOW {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+}
+
+/* Styling for the contact-info-section */
+.contact-info-section {
+    margin-bottom: 25px;
+}
+
+/* Header for the contact info */
+.contact-info-section h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Styling for the address section */
+.contact-details h3 {
+    font-size: 1.2rem;
+    color: #5c6bc0;
+    margin-bottom: 5px;
+}
+
+.contact-details p {
+    font-size: 1rem;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Styling for contact-item (email section) */
+.contact-item {
+    margin-bottom: 25px;
+}
+
+.contact-item h3 {
+    font-size: 1.2rem;
+    color: #5c6bc0;
+    margin-bottom: 5px;
+}
+
+.contact-item p {
+    font-size: 1rem;
+    color: #333;
+}
+
+/* Styling for the business hours section */
+.business-hours {
+    margin-bottom: 25px;
+}
+
+.business-hours h3 {
+    font-size: 1.2rem;
+    color: #5c6bc0;
+    margin-bottom: 10px;
+}
+
+/* Styling for the hours list */
+.hours-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.hours-item {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1rem;
+    color: #333;
+    margin-bottom: 8px;
+}
+
+/* Add a line between hours items */
+.hours-item:not(:last-child) {
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 8px;
+}
+
+/* Responsive styling for smaller screens */
+@media (max-width: 600px) {
+    .contactuSnOW {
+        padding: 15px;
+    }
+    
+    .contact-info-section h2 {
+        font-size: 1.5rem;
+    }
+
+    .contact-item h3, .business-hours h3 {
+        font-size: 1.1rem;
+    }
+
+    .hours-item p {
+        font-size: 0.9rem;
+    }
+}
+
+
 
