@@ -160,3 +160,27 @@ nav ul{
     gap: 9px;
     margin-bottom: 20px;
 }
+.story-section{
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../img/cloth-1835894_1280.jpg');
+    background-repeat: no-repeat;
+    height: 90vh;
+    background-size: cover;
+    position: relative;
+}
+.story-content{
+    position: absolute;
+    top: 25%;
+}
+.story-content h2{
+    color: white;
+    font-size: 45px;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.story-content p{
+    font-size: 35px;
+    color: #d3a7a7;
+    text-align: center;
+    width: 80%;
+    margin-left: 6rem;
+}
