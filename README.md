@@ -15,3 +15,7 @@ Pauline Muthoni.
 when a customer has added a product to their cart, they can navigate to the cart and see all the products including of the prizes.
 3. Contact  form.
 This form has places where customers share their number and emails and also feedback about their products or the services
+## Technologies Used
+. HTML
+. CSS 
+. JAVASCRIPT
