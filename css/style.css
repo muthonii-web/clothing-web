@@ -184,3 +184,48 @@ nav ul{
     width: 80%;
     margin-left: 6rem;
 }
+#quality, #innovation{
+    float: left;
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+    margin-right: 20px;
+    border-radius: 20px;
+    margin-left: 10rem;
+    margin-bottom: 5px;
+}
+#sustainability{
+    float: right;
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+    margin-left: 20px;
+    border-radius: 20px;
+    margin-right: 10rem;
+    margin-bottom: 5px;
+}
+#sustainabilityPara, #sustainabilityH3{
+    text-align: right;
+}
+#sustainabilityPara{
+    margin-left: 20%;
+}
+.values-section h2{
+    text-align: center;
+    font-size: 3.5rem;
+}
+.value-card{
+    clear: both;
+    width: 100%;
+}
+.value-card p{
+    width: 70%;
+    margin-top: 1.5rem;
+}
+.value-card h3{
+    margin-top: 2rem;
+    font-size: 30px;
+}
+.footer{
+    clear: both;
+}
