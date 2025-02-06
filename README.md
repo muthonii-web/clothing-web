@@ -18,7 +18,7 @@ This form has places where customers share their number and emails and also feed
 ## Technologies Used
 . HTML
 . CSS 
-. JAVASCRIPT
+. Javascript
 ## Contact Information
 Email;@kinyanjuipauline69@gmail.com
 ## License
