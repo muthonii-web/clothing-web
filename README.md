@@ -20,7 +20,7 @@ This form has places where customers share their number and emails and also feed
 . CSS 
 . JAVASCRIPT
 ## Contact Information
-@kinyanjuipauline69@gmail.com
+Email;@kinyanjuipauline69@gmail.com
 ## License
 MIT License
 
